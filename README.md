@@ -1,5 +1,5 @@
 # Linkedin-data-analysis-using-Python
-## Data scrapping, data cleaning , wrangling and analysis using python. 
+## Data scrapping, data cleaning , wrangling and analysis using python. [Data visualization](https://public.tableau.com/views/Linkedindatavisualization/Jobofferingbystateandcity?:language=en-US&:display_count=n&:origin=viz_share_link) with tableau
 
 This project contains data scrapped from linkedin on job offer for data analyst in india. The data was scrapped using Octoparse program on 29/11/2021. It is relative small dataset.
 This dataset contains 6 months job offering in LinkedIn with various field like company, locations, time posted, job position etc. 
