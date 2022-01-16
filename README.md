@@ -13,4 +13,5 @@ Most of the cleaning done with the help of split, replace and sometime with regu
 
 Before doing any type analysis we need to breakdown some data to their discreet form. Like extracting city and state from locations, month from date posted and so on. There are some obstacles as expected and all of them arise from same 33 unconventionally termed data with no definitive patterns to break them down. As already mentioned size of the dataset at hand, it is apparent every data counts. With some manual tweaks they are good to go.
 
-EDA, analysis and visualization on progress
+### Data visualization
+[Data visualization](https://public.tableau.com/views/Linkedindatavisualization/Jobofferingbystateandcity?:language=en-US&:display_count=n&:origin=viz_share_link) with tableau.
